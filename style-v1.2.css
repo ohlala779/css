@@ -1094,7 +1094,8 @@ span.likes-rank:before {
 }
 .adsbanner,
 .adsbanner1,
-.adsbanner2 {
+.adsbanner2,
+.adsbanner3{
   display:block;
   margin:0 auto;
   border:none;
@@ -1107,7 +1108,8 @@ span.likes-rank:before {
   height:250px;
 }
 .adsbanner1,
-.adsbanner2 {
+.adsbanner2,
+.adsbanner3{
   width:300px;
   height:100px;
 }
